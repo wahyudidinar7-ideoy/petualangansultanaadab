@@ -1,0 +1,6 @@
+{
+  "name": "PETUALANGAN ADAB SANTRI - DTU Al Hidayah",
+  "description": "Game edukasi pembelajaran PAI dan Adab Islami interaktif untuk anak SD dan DTA Al Hidayah dengan peta petualangan, kartu doa, suara, dan mode guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
